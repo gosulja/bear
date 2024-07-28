@@ -1,0 +1,3 @@
+C:/Users/blinx/Documents/C/bear/build/CMakeFiles/bear.dir
+C:/Users/blinx/Documents/C/bear/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/blinx/Documents/C/bear/build/CMakeFiles/ZERO_CHECK.dir

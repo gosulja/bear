@@ -1,0 +1,9 @@
+C:\Users\blinx\Documents\C\bear\src\chunk.c;C:\Users\blinx\Documents\C\bear\build\bear.dir\Debug\chunk.obj
+C:\Users\blinx\Documents\C\bear\src\compiler.c;C:\Users\blinx\Documents\C\bear\build\bear.dir\Debug\compiler.obj
+C:\Users\blinx\Documents\C\bear\src\debug.c;C:\Users\blinx\Documents\C\bear\build\bear.dir\Debug\debug.obj
+C:\Users\blinx\Documents\C\bear\src\main.c;C:\Users\blinx\Documents\C\bear\build\bear.dir\Debug\main.obj
+C:\Users\blinx\Documents\C\bear\src\memory.c;C:\Users\blinx\Documents\C\bear\build\bear.dir\Debug\memory.obj
+C:\Users\blinx\Documents\C\bear\src\object.c;C:\Users\blinx\Documents\C\bear\build\bear.dir\Debug\object.obj
+C:\Users\blinx\Documents\C\bear\src\scanner.c;C:\Users\blinx\Documents\C\bear\build\bear.dir\Debug\scanner.obj
+C:\Users\blinx\Documents\C\bear\src\value.c;C:\Users\blinx\Documents\C\bear\build\bear.dir\Debug\value.obj
+C:\Users\blinx\Documents\C\bear\src\vm.c;C:\Users\blinx\Documents\C\bear\build\bear.dir\Debug\vm.obj
