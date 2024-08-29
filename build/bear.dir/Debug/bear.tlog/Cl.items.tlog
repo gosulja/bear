@@ -5,5 +5,6 @@ C:\Users\blinx\Documents\C\bear\src\main.c;C:\Users\blinx\Documents\C\bear\build
 C:\Users\blinx\Documents\C\bear\src\memory.c;C:\Users\blinx\Documents\C\bear\build\bear.dir\Debug\memory.obj
 C:\Users\blinx\Documents\C\bear\src\object.c;C:\Users\blinx\Documents\C\bear\build\bear.dir\Debug\object.obj
 C:\Users\blinx\Documents\C\bear\src\scanner.c;C:\Users\blinx\Documents\C\bear\build\bear.dir\Debug\scanner.obj
+C:\Users\blinx\Documents\C\bear\src\table.c;C:\Users\blinx\Documents\C\bear\build\bear.dir\Debug\table.obj
 C:\Users\blinx\Documents\C\bear\src\value.c;C:\Users\blinx\Documents\C\bear\build\bear.dir\Debug\value.obj
 C:\Users\blinx\Documents\C\bear\src\vm.c;C:\Users\blinx\Documents\C\bear\build\bear.dir\Debug\vm.obj

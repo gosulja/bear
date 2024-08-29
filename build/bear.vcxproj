@@ -331,6 +331,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     <ClCompile Include="C:\Users\blinx\Documents\C\bear\src\memory.c" />
     <ClCompile Include="C:\Users\blinx\Documents\C\bear\src\object.c" />
     <ClCompile Include="C:\Users\blinx\Documents\C\bear\src\scanner.c" />
+    <ClCompile Include="C:\Users\blinx\Documents\C\bear\src\table.c" />
     <ClCompile Include="C:\Users\blinx\Documents\C\bear\src\value.c" />
     <ClCompile Include="C:\Users\blinx\Documents\C\bear\src\vm.c" />
   </ItemGroup>

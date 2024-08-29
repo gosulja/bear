@@ -22,6 +22,9 @@
     <ClCompile Include="C:\Users\blinx\Documents\C\bear\src\scanner.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\blinx\Documents\C\bear\src\table.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="C:\Users\blinx\Documents\C\bear\src\value.c">
       <Filter>Source Files</Filter>
     </ClCompile>
