@@ -4,6 +4,9 @@
     <ClCompile Include="C:\Users\blinx\Documents\C\bear\src\chunk.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\blinx\Documents\C\bear\src\common.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="C:\Users\blinx\Documents\C\bear\src\compiler.c">
       <Filter>Source Files</Filter>
     </ClCompile>

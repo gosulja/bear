@@ -325,6 +325,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="C:\Users\blinx\Documents\C\bear\src\chunk.c" />
+    <ClCompile Include="C:\Users\blinx\Documents\C\bear\src\common.c" />
     <ClCompile Include="C:\Users\blinx\Documents\C\bear\src\compiler.c" />
     <ClCompile Include="C:\Users\blinx\Documents\C\bear\src\debug.c" />
     <ClCompile Include="C:\Users\blinx\Documents\C\bear\src\main.c" />
